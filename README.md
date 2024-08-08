@@ -26,3 +26,17 @@ To install and run this project on your local machine, follow these steps:
 
    now open in browser 
    http://localhost:5173/
+
+**Introduction:"Upon opening the app, you’re presented with two options: sign up with Google or create an account."
+
+**Google Signup Flow:"I'll click the Google signup option. After choosing an email, the server generates a JWT token. This token is securely signed and encodes the user's details, ensuring safe communication."
+
+**Passing JWT in URL:"The token is passed in the URL as ?token=your_jwt_token, which allows the server to authenticate the user with every request. After this, we land on the main page."
+
+**Main Page Overview:"On the main page, there’s a sidebar button to view emails. Clicking it triggers an API call, with the JWT token ensuring secure data retrieval."
+
+**Keyboard Shortcuts:"To streamline actions, I’ve added shortcuts: 'D' opens a confirmation window for email deletion, and 'R' opens a reply window."
+
+**Light and Dark Mode Toggle:"Finally, there's a toggle button at the top for switching between light and dark modes, enhancing user customization."
+
+**Conclusion:"And that’s the app—secure JWT-based authentication, responsive email management, efficient shortcuts, and customizable themes."
