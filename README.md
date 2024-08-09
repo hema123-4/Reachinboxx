@@ -9,23 +9,10 @@ and api documentation
 https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27
 
 ---
+<img width="654" alt="google" src="https://github.com/user-attachments/assets/7f5e3f67-f721-41f6-bd0f-889d70ca9443">
 
-## Installation
 
-To install and run this project on your local machine, follow these steps:
-
-1. **Clone Repository:**
-   ```bash
-   git clone https://github.com/punyakrit/Reachinbox-Assignment.git
-
-   cd into project
-
-   run `npm install`
-
-   run `npm run dev`
-
-   now open in browser 
-   http://localhost:5173/
+  
 
 **Introduction:"Upon opening the app, you’re presented with two options: sign up with Google or create an account."
 
