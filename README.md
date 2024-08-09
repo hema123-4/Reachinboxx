@@ -9,21 +9,14 @@ and api documentation
 https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27
 
 ---
-<img width="654" alt="google" src="https://github.com/user-attachments/assets/7f5e3f67-f721-41f6-bd0f-889d70ca9443">
+<img width="698" alt="Login" src="https://github.com/user-attachments/assets/e839e758-1ff6-4d35-8a7e-37829474ffcb">
+<img width="654" alt="google" src="https://github.com/user-attachments/assets/7754a3e9-ebcc-4551-9985-5f1a84d0da06">
+<img width="942" alt="first" src="https://github.com/user-attachments/assets/799b02ba-21f9-4577-b3f0-65d6e8b582f4">
+<img width="946" alt="page2" src="https://github.com/user-attachments/assets/39ed93ac-988a-4ea1-af2e-83b6f9c8226c">
+<img width="514" alt="reply" src="https://github.com/user-attachments/assets/9a8d4429-8791-458e-9194-10154c704282">
+<img width="925" alt="res1" src="https://github.com/user-attachments/assets/1a425d5e-0483-4838-831e-e0150e95f5ed">
 
 
   
 
-**Introduction:"Upon opening the app, you’re presented with two options: sign up with Google or create an account."
 
-**Google Signup Flow:"I'll click the Google signup option. After choosing an email, the server generates a JWT token. This token is securely signed and encodes the user's details, ensuring safe communication."
-
-**Passing JWT in URL:"The token is passed in the URL as ?token=your_jwt_token, which allows the server to authenticate the user with every request. After this, we land on the main page."
-
-**Main Page Overview:"On the main page, there’s a sidebar button to view emails. Clicking it triggers an API call, with the JWT token ensuring secure data retrieval."
-
-**Keyboard Shortcuts:"To streamline actions, I’ve added shortcuts: 'D' opens a confirmation window for email deletion, and 'R' opens a reply window."
-
-**Light and Dark Mode Toggle:"Finally, there's a toggle button at the top for switching between light and dark modes, enhancing user customization."
-
-**Conclusion:"And that’s the app—secure JWT-based authentication, responsive email management, efficient shortcuts, and customizable themes."
