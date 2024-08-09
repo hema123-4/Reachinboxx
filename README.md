@@ -14,7 +14,9 @@ https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e
 <img width="942" alt="first" src="https://github.com/user-attachments/assets/799b02ba-21f9-4577-b3f0-65d6e8b582f4">
 <img width="946" alt="page2" src="https://github.com/user-attachments/assets/39ed93ac-988a-4ea1-af2e-83b6f9c8226c">
 <img width="514" alt="reply" src="https://github.com/user-attachments/assets/9a8d4429-8791-458e-9194-10154c704282">
-<img width="925" alt="res1" src="https://github.com/user-attachments/assets/1a425d5e-0483-4838-831e-e0150e95f5ed">
+<img width="386" alt="delete" src="https://github.com/user-attachments/assets/c6ca8463-f00f-4003-af77-e08c1ef92927">
+
+
 
 
   
